@@ -1,5 +1,4 @@
 import PropTypes from 'prop-types';
-// import history from 'json/transactions.json';
 import s from './TransactionHistory.module.css';
 function History({ items }) {
   return (
